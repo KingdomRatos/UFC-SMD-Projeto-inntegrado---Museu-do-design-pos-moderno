@@ -4,9 +4,13 @@ Equipe: Kingdom Ratos
 
 Membros:
   Nathan Damasceno Gadelha Rocha - 497045
+  
   Pedro ilan de araujo Ferreira - 497211
+  
   Samuel Maia de Oliveira Evangelista - 494467
+  
   Vincenzo Silva Fadda -499907
+  
   Victor Lucas Livino Moreira - 475595
   
 Cliente: professor Liandro Roger
