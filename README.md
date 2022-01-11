@@ -17,3 +17,5 @@ Membros:
 Cliente: professor Liandro Roger
 
 Descrição: transformar a vídeo aula "05-3 Design pos-moderno exemplos (music video).mp4"(https://drive.google.com/file/d/1CFXOkeQwrRFDkwhdRS9fXRYLc9yW_wsw/view) em um jogo.
+
+DOWNLOAD da pasta BIN com o executável: https://drive.google.com/file/d/13SIsHl5Gqjm4ysSRL749rWOUc-w8CL3d/view?usp=sharing
