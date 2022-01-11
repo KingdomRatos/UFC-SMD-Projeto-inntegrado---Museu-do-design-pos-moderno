@@ -23,6 +23,7 @@ DOWNLOAD da pasta BIN com o executável: https://drive.google.com/file/d/13SIsHl
 
 
 arquivos(modificados de .gd para .txt porque o github não tem suporte a .gd)
+
 [andares.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850520/andares.txt)
 
 [Button.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850521/Button.txt)
