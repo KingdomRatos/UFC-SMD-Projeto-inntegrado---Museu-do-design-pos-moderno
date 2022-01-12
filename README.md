@@ -30,16 +30,16 @@ Mapeamento de funcionalidades
 |  Código               |  Funcionalidade                |                    Codificação                  |
 | :---                 |            :---:                |                           ---:                  |  
 | Cód. RF 0001        |     Iniciar o jogo               |       arquivo ”button.gd” - linhas 14 a 15      |
-|Cód. RF 0002 |   | Movimentar Personagem   |     arquivo ”player.gd” - linhas 14 a 47|
+|Cód. RF 0002 | Movimentar Personagem    |arquivo ”player.gd” - linhas 14 a 47  |   
 |Cód. RF 0003   |  Interagir com objetos ao apertar espaço    |   arquivo ”NPC.gd” - todo o códigoarquivo ”NPCQuiz.gd” - todo o código         |
 |Cód. RF 0004    |   dentificar colisão com objetos e paredes |arquivo”player.gd” - linha 47 |
 |Cód. RF 0005|Mostrar tela do quiz|arquivo ”NPCQuiz.gd” linhas 13 a 18|
-||||
-||||
-||||
-||||
-||||
-||||
+|Cód. RF 0006|Verificar se a resposta fornecida é a correta e gerar pontuação do quiz|arquivo ”Quiz.gd” linhas 57 a 98|
+|Cód. RF 0007|Interagir com interface do cartaz de sala utilizando o mouse |arquivo”control.gd” - linhas 15 a 19|
+|Cód. RF 0008|Trocar de sala ao clicar nas opções oferecidas de sala|arquivo ”andares.gd” linhas 10 a 40|
+|Cód. RF 0009|transportar o jogador para a sala escolhida|arquivo ”andares.gd” linhas 16 a 40|
+|Cód. RF 0010|Sair do cartaz ao clicar na opção voltar|arquivo ”andares.gd” linhas 10 a 14|
+|Cód. RF 0011|interagir com quadros expostos no museu e exibir os quadros com suas informações|arquivo “quadroSeymour.gd” linhas 36 a 45arquivo “quadro.gd” linhas 13 a 21arquivo “quadro2.gd” linhas 13 a 21|
 ||||
 ||||
 ||||
@@ -49,37 +49,25 @@ Mapeamento de funcionalidades
 
 
 
-Cód. RF 0006
-Verificar se a resposta fornecida é a correta e gerar pontuação do quiz
+
+
+
+
+
+
+
 Feito
-arquivo ”Quiz.gd” linhas 57 a 98
 
-Cód. RF 0007
-Interagir com interface do cartaz de sala utilizando o mouse 
-Feito
-arquivo”control.gd” - linhas 15 a 19
 
-Cód. RF 0008
-Trocar de sala ao clicar nas opções oferecidas de sala
-Feito
-arquivo ”andares.gd” linhas 10 a 40
 
-Cód. RF 0009
-transportar o jogador para a sala escolhida
-Feito
-arquivo ”andares.gd” linhas 16 a 40
 
-Cód. RF 0010
-Sair do cartaz ao clicar na opção voltar
 Feito
-arquivo ”andares.gd” linhas 10 a 14
 
-Cód. RF 0011
-interagir com quadros expostos no museu e exibir os quadros com suas informações
+
+
+
 Feito
-arquivo “quadroSeymour.gd” linhas 36 a 45
-arquivo “quadro.gd” linhas 13 a 21
-arquivo “quadro2.gd” linhas 13 a 21
+
 
 Cód. RF 0012
 Mostrar botões de controle dos quadros
