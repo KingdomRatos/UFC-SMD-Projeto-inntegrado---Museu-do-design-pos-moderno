@@ -26,6 +26,145 @@ link para o protótipo do jogo online: https://nathandgr.itch.io/demo-museu-do-d
 
 arquivos de código (modificados de .gd para .txt porque o read.md não tem suporte a .gd)
 
+Mapeamento de funcionalidades
+
+Cód. RF 0001
+Iniciar o jogo
+Feito
+arquivo ”button.gd” - linhas 14 a 15
+
+Cód. RF 0002
+Movimentar Personagem
+Feito
+arquivo ”player.gd” - linhas 14 a 47
+
+Cód. RF 0003
+Interagir com objetos ao apertar espaço
+Feito
+arquivo ”NPC.gd” - todo o código
+arquivo”NPCQuiz.gd” - todo o código
+
+Cód. RF 0004
+Identificar colisão com objetos e paredes
+Feito
+arquivo”player.gd” - linha 47
+Cód. RF 0005
+Mostrar tela do quiz
+Feito
+arquivo ”NPCQuiz.gd” linhas 13 a 18
+
+Cód. RF 0006
+Verificar se a resposta fornecida é a correta e gerar pontuação do quiz
+Feito
+arquivo ”Quiz.gd” linhas 57 a 98
+
+Cód. RF 0007
+Interagir com interface do cartaz de sala utilizando o mouse 
+Feito
+arquivo”control.gd” - linhas 15 a 19
+
+Cód. RF 0008
+Trocar de sala ao clicar nas opções oferecidas de sala
+Feito
+arquivo ”andares.gd” linhas 10 a 40
+
+Cód. RF 0009
+transportar o jogador para a sala escolhida
+Feito
+arquivo ”andares.gd” linhas 16 a 40
+
+Cód. RF 0010
+Sair do cartaz ao clicar na opção voltar
+Feito
+arquivo ”andares.gd” linhas 10 a 14
+
+Cód. RF 0011
+interagir com quadros expostos no museu e exibir os quadros com suas informações
+Feito
+arquivo “quadroSeymour.gd” linhas 36 a 45
+arquivo “quadro.gd” linhas 13 a 21
+arquivo “quadro2.gd” linhas 13 a 21
+
+Cód. RF 0012
+Mostrar botões de controle dos quadros
+Feito
+arquivo “quadroSeymour.gd” linhas 41 a 43
+
+Cód. RF 0013
+Clicar no botão de próximo quadro e mudar para o próximo quadro
+Feito
+arquivo”control.gd” - linhas 34 a 54
+arquivo”quadroSeymour.gd” linhas 18 a 22
+
+Cód. RF 0014
+Clicar no botão de quadro anterior e mudar para o quadro anterior
+Feito
+arquivo”control.gd” - linhas 56 a 77
+arquivo”quadroSeymour.gd” linhas 23 a 33
+
+Cód. RF 0015
+Clicar no botão de voltar e fechar a tela de quadros
+Feito 
+arquivo”control.gd” - linhas 79 a 87
+
+Cód. RF 0016
+Clicar no botão de volume e mostrar controle de volume
+Feito
+arquivo”control.gd” - linhas 21 a 28
+
+Cód. RF 0017
+Controlar o volume do jogo ao deslizar o slider de controle
+Feito
+arquivo”HScrollbar.gd” linhas 19 a 21
+
+Cód. RF 0018
+clicar no botão de fechar controle de som, fechar a tela de controle de som e mostrar ícone de configuração de som
+Feito
+arquivo”control.gd” - linhas 21 a 24 e 31 a 32
+
+Cód. RF 0019
+iluminar insígnias ao completar os desafios
+em desenvolvimento
+arquivo “NPCQuiz.gd” linhas 42 e 43
+
+Cód. RF 0020
+Acessar puzzle: Quebra cabeça com peças que deslizam
+Não iniciado
+
+
+Cód. RF 0021
+Deslizar peça do quebra cabeça com peças que deslizam
+Não iniciado
+
+
+Cód. RF 0022
+Checar se o quebra cabeça está correto
+Não iniciado
+
+
+Cód. RF 0023
+Adicionar pontuação ao completar o quebra cabeça
+Não iniciado
+
+
+Cód. RF 0024
+inserir nome do jogador
+Não iniciado
+
+
+Cód. RF 0025
+mostrar nome do jogador
+Não iniciado
+
+
+Cód. RF 0026
+Mostrar tela final
+Não iniciado
+
+
+
+
+
 [andares.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850520/andares.txt)
 
 [Button.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850521/Button.txt)
@@ -57,3 +196,11 @@ arquivos de código (modificados de .gd para .txt porque o read.md não tem supo
 [SoundButton.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850534/SoundButton.txt)
 
 [Voltar.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850535/Voltar.txt)
+
+
+
+
+
+
+
+
