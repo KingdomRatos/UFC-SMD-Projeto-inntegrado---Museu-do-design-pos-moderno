@@ -27,15 +27,15 @@ link para o protótipo do jogo online: https://nathandgr.itch.io/demo-museu-do-d
 arquivos de código (modificados de .gd para .txt porque o read.md não tem suporte a .gd)
 
 Mapeamento de funcionalidades
+|  Código               |  Funcionalidade                |                    Codificação                  |
+| :---                 |            :---:                |                           ---:                  |  
+| Cód. RF 0001        |     Iniciar o jogo               |       arquivo ”button.gd” - linhas 14 a 15      |
+|Cód. RF 0002 | git status     | Movimentar Personagem   |     arquivo ”player.gd” - linhas 14 a 47
+| git diff     | git diff       | git diff               |
 
-Cód. RF 0001
-Iniciar o jogo
-Feito
-arquivo ”button.gd” - linhas 14 a 15
 
-Cód. RF 0002
-Movimentar Personagem
-Feito
+
+
 arquivo ”player.gd” - linhas 14 a 47
 
 Cód. RF 0003
