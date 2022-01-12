@@ -20,7 +20,7 @@ Cliente: professor Liandro Roger
 Descrição: transformar a vídeo aula "05-3 Design pos-moderno exemplos (music video).mp4"(https://drive.google.com/file/d/1CFXOkeQwrRFDkwhdRS9fXRYLc9yW_wsw/view) em um museu virtual onde o usuario pode interagir pode interagir com objetos, ver produtos de design dos especialistas apresentados e um pouco mais de informação. na aplicação também existem pequenos desafios abordando o tema apresentado. o projeto utiliza o motor de jogos "Godot" para seu desenvolvimento.
 obs: para o executável funcionar, é necessário que o arquivo .pck esteja na mesma pasta, isso é padrão do próprio godot.
 
-link de download alternativo para pasta BIN com a demo .EXE do projeto: https://drive.google.com/file/d/1D8p0yWvXvKtdwufgnuX2O-DN0ums9n6X/view?usp=sharing
+link de download alternativo para pasta BIN com a demo .EXE do projeto: https://drive.google.com/file/d/1lmxr1KVG8peapWo6L6r_X_O_fXcitq5A/view?usp=sharing
 
 link para o protótipo do jogo online: https://nathandgr.itch.io/demo-museu-do-design-ps-moderno
 
