@@ -20,6 +20,7 @@ Cliente: professor Liandro Roger
 Descrição: transformar a vídeo aula "05-3 Design pos-moderno exemplos (music video).mp4"(https://drive.google.com/file/d/1CFXOkeQwrRFDkwhdRS9fXRYLc9yW_wsw/view) em um jogo utilizando o motor de jogos "Godot".
 
 link de download alternativo para pasta BIN com a demo .EXE do projeto: https://drive.google.com/file/d/1D8p0yWvXvKtdwufgnuX2O-DN0ums9n6X/view?usp=sharing
+
 link para o protótipo do jogo online: https://nathandgr.itch.io/demo-museu-do-design-ps-moderno
 
 arquivos(modificados de .gd para .txt porque o github não tem suporte a .gd)
