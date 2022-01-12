@@ -17,7 +17,8 @@ Membros:
   
 Cliente: professor Liandro Roger
 
-Descrição: transformar a vídeo aula "05-3 Design pos-moderno exemplos (music video).mp4"(https://drive.google.com/file/d/1CFXOkeQwrRFDkwhdRS9fXRYLc9yW_wsw/view) em um jogo utilizando o motor de jogos "Godot".
+Descrição: transformar a vídeo aula "05-3 Design pos-moderno exemplos (music video).mp4"(https://drive.google.com/file/d/1CFXOkeQwrRFDkwhdRS9fXRYLc9yW_wsw/view) em um jogo com mini desafios baseado no conteúdo abordado em um museu virtual onde o usuário pode conhecer mais sobre os tópicos apresentados no vídeo original, utilizando o motor de jogos "Godot".
+obs: para o executável funcionar, é necessário que o arquivo .pck esteja na mesma pasta, isso é padrão do próprio godot.
 
 link de download alternativo para pasta BIN com a demo .EXE do projeto: https://drive.google.com/file/d/1D8p0yWvXvKtdwufgnuX2O-DN0ums9n6X/view?usp=sharing
 
