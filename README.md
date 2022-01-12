@@ -30,28 +30,24 @@ Mapeamento de funcionalidades
 |  Código               |  Funcionalidade                |                    Codificação                  |
 | :---                 |            :---:                |                           ---:                  |  
 | Cód. RF 0001        |     Iniciar o jogo               |       arquivo ”button.gd” - linhas 14 a 15      |
-|Cód. RF 0002 | git status     | Movimentar Personagem   |     arquivo ”player.gd” - linhas 14 a 47
-| git diff     | git diff       | git diff               |
+|Cód. RF 0002 |   | Movimentar Personagem   |     arquivo ”player.gd” - linhas 14 a 47
+|Cód. RF 0003   |  Interagir com objetos ao apertar espaço    |   arquivo ”NPC.gd” - todo o códigoarquivo ”NPCQuiz.gd” - todo o código         |
+|Cód. RF 0004    |   dentificar colisão com objetos e paredes |arquivo”player.gd” - linha 47 |
+|Cód. RF 0005|Mostrar tela do quiz|arquivo ”NPCQuiz.gd” linhas 13 a 18|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 
 
 
 
-arquivo ”player.gd” - linhas 14 a 47
-
-Cód. RF 0003
-Interagir com objetos ao apertar espaço
-Feito
-arquivo ”NPC.gd” - todo o código
-arquivo”NPCQuiz.gd” - todo o código
-
-Cód. RF 0004
-Identificar colisão com objetos e paredes
-Feito
-arquivo”player.gd” - linha 47
-Cód. RF 0005
-Mostrar tela do quiz
-Feito
-arquivo ”NPCQuiz.gd” linhas 13 a 18
 
 Cód. RF 0006
 Verificar se a resposta fornecida é a correta e gerar pontuação do quiz
