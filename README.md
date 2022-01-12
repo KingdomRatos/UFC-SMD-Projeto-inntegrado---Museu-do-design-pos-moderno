@@ -17,13 +17,14 @@ Membros:
   
 Cliente: professor Liandro Roger
 
-Descrição: transformar a vídeo aula "05-3 Design pos-moderno exemplos (music video).mp4"(https://drive.google.com/file/d/1CFXOkeQwrRFDkwhdRS9fXRYLc9yW_wsw/view) em um jogo utilizando o motor de jogos "Godot".
+Descrição: transformar a vídeo aula "05-3 Design pos-moderno exemplos (music video).mp4"(https://drive.google.com/file/d/1CFXOkeQwrRFDkwhdRS9fXRYLc9yW_wsw/view) em um museu virtual onde o usuario pode interagir pode interagir com objetos, ver produtos de design dos especialistas apresentados e um pouco mais de informação. na aplicação também existem pequenos desafios abordando o tema apresentado. o projeto utiliza o motor de jogos "Godot" para seu desenvolvimento.
+obs: para o executável funcionar, é necessário que o arquivo .pck esteja na mesma pasta, isso é padrão do próprio godot.
 
-DOWNLOAD da pasta BIN com o protótipo executável(o github tem limite de 25mb de upload por arquivo): https://drive.google.com/file/d/13SIsHl5Gqjm4ysSRL749rWOUc-w8CL3d/view?usp=sharing
+link de download alternativo para pasta BIN com a demo .EXE do projeto: https://drive.google.com/file/d/1D8p0yWvXvKtdwufgnuX2O-DN0ums9n6X/view?usp=sharing
 
 link para o protótipo do jogo online: https://nathandgr.itch.io/demo-museu-do-design-ps-moderno
 
-arquivos(modificados de .gd para .txt porque o github não tem suporte a .gd)
+arquivos de código (modificados de .gd para .txt porque o read.md não tem suporte a .gd)
 
 [andares.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850520/andares.txt)
 
