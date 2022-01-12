@@ -47,8 +47,14 @@ Mapeamento de funcionalidades
 |Cód. RF 0016|Clicar no botão de volume e mostrar controle de volume|arquivo”control.gd” - linhas 21 a 28|
 |Cód. RF 0017|Controlar o volume do jogo ao deslizar o slider de controle|arquivo”HScrollbar.gd” linhas 19 a 21|
 |Cód. RF 0018|clicar no botão de fechar controle de som, fechar a tela de controle de som e mostrar ícone de configuração de som|arquivo”control.gd” - linhas 21 a 24 e 31 a 32|
-
-
+|Cód. RF 0019|iluminar insignias ao completar os desafios|em desenvolvimento no arquivo “NPCQuiz.gd” linhas 42 e 43|
+|Cód. RF 0020|Acessar puzzle: Quebra cabeça com peças que deslizam|não iniciado|
+|Cód. RF 0021|Deslizar peça do quebra cabeça com peças que deslizam|não iniciado|
+|Cód. RF 0022|Checar se o quebra cabeça está correto|não iniciado|
+|Cód. RF 0023|Adicionar pontuação ao completar o quebra cabeça|não iniciado|
+|Cód. RF 0024|inserir nome do jogador|não iniciado|
+|Cód. RF 0025|mostrar nome do jogador|não iniciado|
+|Cód. RF 0026|Mostrar tela final|não iniciado|
 
 
 
