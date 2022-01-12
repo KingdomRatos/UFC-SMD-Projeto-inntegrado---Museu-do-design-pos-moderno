@@ -32,7 +32,7 @@ Mapeamento de funcionalidades
 | Cód. RF 0001        |     Iniciar o jogo               |       arquivo ”button.gd” - linhas 14 a 15      |
 |Cód. RF 0002 | Movimentar Personagem    |arquivo ”player.gd” - linhas 14 a 47  |   
 |Cód. RF 0003   |  Interagir com objetos ao apertar espaço    |   arquivo ”NPC.gd” - todo o códigoarquivo ”NPCQuiz.gd” - todo o código         |
-|Cód. RF 0004    |   dentificar colisão com objetos e paredes |arquivo”player.gd” - linha 47 |
+|Cód. RF 0004    |   identificar colisão com objetos e paredes |arquivo”player.gd” - linha 47 |
 |Cód. RF 0005|Mostrar tela do quiz|arquivo ”NPCQuiz.gd” linhas 13 a 18|
 |Cód. RF 0006|Verificar se a resposta fornecida é a correta e gerar pontuação do quiz|arquivo ”Quiz.gd” linhas 57 a 98|
 |Cód. RF 0007|Interagir com interface do cartaz de sala utilizando o mouse |arquivo”control.gd” - linhas 15 a 19|
