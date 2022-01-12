@@ -24,7 +24,7 @@ link de download alternativo para pasta BIN com a demo .EXE do projeto: https://
 
 link para o protótipo do jogo online: https://nathandgr.itch.io/demo-museu-do-design-ps-moderno
 
-arquivos de código (modificados de .gd para .txt porque o read.md não tem suporte a .gd)
+
 
 Mapeamento de funcionalidades
 |  Código               |  Funcionalidade                |                    Codificação                  |
@@ -54,7 +54,7 @@ Mapeamento de funcionalidades
 
 
 
-
+arquivos de código (modificados de .gd para .txt porque o read.md não tem suporte a .gd)
 
 
 [andares.txt](https://github.com/KingdomRatos/UFC-SMD-Projeto-inntegrado---Museu-do-design-pos-moderno/files/7850520/andares.txt)
