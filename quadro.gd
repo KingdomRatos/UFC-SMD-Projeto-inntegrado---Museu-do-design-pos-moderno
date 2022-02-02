@@ -7,11 +7,12 @@ func _ready():
 	connect("body_entered", self, '_on_NPC_body_entered')
 	connect("body_exited", self, '_on_NPC_body_exited')
 
-func _process(delta):
+func _process(_delta):
 	$interrogacao.visible = active
 
 func _input(event):
 		if event.is_action_pressed("ui_select") and active:
+			active = false
 			get_tree().root.get_node("World").get_node("CanvasLayer").get_node("UI").quadro = 0
 			get_tree().root.get_node("World").get_node("quadros").get_node("Poster Recepcao1").position.x = get_tree().root.get_node("World").get_node("Camera2D").position.x
 			get_tree().root.get_node("World").get_node("quadros").get_node("Poster Recepcao1").position.y = get_tree().root.get_node("World").get_node("Camera2D").position.y
