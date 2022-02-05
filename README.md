@@ -54,8 +54,3 @@ Mapeamento de funcionalidades
 
 
 
-
-
-arquivos de código (modificados de .gd para .txt porque o read.md não tem suporte a .gd)
-
-
