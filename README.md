@@ -47,8 +47,8 @@ Mapeamento de funcionalidades
 |Cód. RF 0018|clicar no botão de fechar controle de som, fechar a tela de controle de som e mostrar ícone de configuração de som|arquivo”control.gd” - linhas 21 a 24 e 31 a 32|
 |Cód. RF 0019|iluminar insignias ao completar os desafios|arquivo “NPCQuiz.gd” linhas 45, 86 e 113; e nos arquivos "board.gd" e "board2.gd" linha 110 em ambos|
 |Cód. RF 0020|Acessar puzzle: Quebra cabeça com peças que deslizam| arquivos "Puzzle1.gd" e "Puzzle2.gd" linhas 12 a 16|
-|Cód. RF 0021|Deslizar peça do quebra cabeça com peças que deslizam|arquivos "board.gd" e "board2.gd"|
-|Cód. RF 0022|Checar se o quebra cabeça está correto|arquivos "board.gd" e "board2.gd" linhas 109 a 113|
+|Cód. RF 0021|Deslizar peça do quebra cabeça com peças que deslizam|arquivos "board.gd" e "board2.gd" linhas 98 a 177|
+|Cód. RF 0022|Checar se o quebra cabeça está correto|arquivos "board.gd" e "board2.gd" linhas 109 a 113 em ambos|
 |Cód. RF 0023|Mostrar tela final|arquivo "world.gd" linhas 11 a 18|
 |Cód. RF 0024|Fechar tela final|"world.gd" linhas 23 a 31|
 
