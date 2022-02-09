@@ -23,6 +23,9 @@ obs: para o executável funcionar, é necessário que o arquivo .pck esteja na m
 link para o jogo online: https://nathandgr.itch.io/museu-do-design-ps-moderno
 
 
+(os arquivos de código estão numa pasta disponível nos arquivos do repositório no topo da página)
+
+
 
 Mapeamento de funcionalidades
 |  Código               |  Funcionalidade                |                    Codificação                  |
